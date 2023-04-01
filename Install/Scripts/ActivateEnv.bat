@@ -1,3 +1,4 @@
+rem Copyright (c) 2023 GrosSlava
 @echo off
 
 

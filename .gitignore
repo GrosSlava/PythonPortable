@@ -7,7 +7,7 @@
 **/env.bak
 **/venv.bak
 **/__pycache__
-**.egg-info
+**/.egg-info
 
 # Visual Studio
 **/.vscode

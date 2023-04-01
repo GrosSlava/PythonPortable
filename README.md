@@ -5,10 +5,12 @@ Using this tool you can incapsulate all Python environment in one folder.
 
 
 ## TargetPlatforms
+
 - Windows 10+
 
 
 ## How to use
+
 1. Download repo and unzip it where you want.
 2. Run *FirstTimeInit.bat*
 3. The *PyEnv* folder with the configured environment will be created.

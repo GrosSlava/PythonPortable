@@ -1,3 +1,4 @@
+rem Copyright (c) 2023 GrosSlava
 @echo off
 
 
@@ -7,8 +8,8 @@ set EnvName=PyEnv
 
 :begin
 if exist %EnvName% (
-    echo Already installed!
-    goto end
+	echo Already installed!
+	goto end
 )
 
 rem Create environment main dir
